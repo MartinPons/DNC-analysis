@@ -26,11 +26,6 @@ library(reldist)
 library(remoji)
 library(lexicon)
 library(rtweet)
-Sys.getenv()
-Sys.setenv(JAVA_HOME = "C:\\Program Files\\Java\\jre1.8.0_251")
-
-library(tm)
-library(qdap)
 
 # funciones auxiliares
 source(here::here("scripts", "funciones_auxiliares.R"))
