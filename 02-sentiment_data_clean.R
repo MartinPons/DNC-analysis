@@ -1,7 +1,5 @@
-# 03-sentiment_data_clean.R
+# 02-sentiment_data_clean.R
 
-
-# 01-data_clean.R
 
 
 # CONFIGURACION INICIAL ---------------------------------------------------
@@ -47,7 +45,6 @@ climate_sent <- lee_datos_sent("climatechange")
 saveRDS(climate_sent, here::here("datos_procesados", "formated_sent_df_data", "climatechange_sent.rds"))
 
 # greennewdeal
-# climatechange
 greennewdeal_sent <- lee_datos_sent("greennewdeal")
 saveRDS(greennewdeal_sent, here::here("datos_procesados", "formated_sent_df_data", "greennewdeal_sent.rds"))
 
