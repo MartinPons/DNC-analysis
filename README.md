@@ -1,6 +1,6 @@
 Ánalisis de la División de las comunidades del partido demócrata de los EE.UU (DNC) en Twitter.
 
-Los datos fueron recogidos entre el 24 de abril y el 17 de mayo de 2020. Se realizan análisis de tópicos y análisis de sentimiento de seguidores de la cuenta del Comité Nacional Demócrata, del Partído Republicadno y del grupo progresista dentro del partido demócrata, Justice Démocrats.
+Los datos fueron recogidos entre el 24 de abril y el 17 de mayo de 2020. Se realizan análisis de tópicos y análisis de sentimiento de seguidores de la cuenta del Comité Nacional Demócrata, del Partído Republicano y del grupo progresista dentro del partido demócrata, Justice Démocrats.
 
 ### Instalaciones necesarias
 - RStudio
