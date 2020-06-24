@@ -1,4 +1,4 @@
-# funciones_auxiliares.R
+# 00-funciones_auxiliares.R
 
 
 get_common_terms <- function(set1, set2) {
